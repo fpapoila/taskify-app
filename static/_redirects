@@ -1,0 +1,2 @@
+http://app-taskify.netlify.com/* http://app.taskify.works/:splat 301!
+/* /index.html 200
